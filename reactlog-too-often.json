@@ -1,0 +1,1145 @@
+[
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 0,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1.48,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 1\n $ update:Classes 'integer', 'shinyActionButtonValue'  int 0"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 2.49,
+    "action": "valueChange",
+    "id": "input$update",
+    "value": "Classes 'integer', 'shinyActionButtonValue'  int 0"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 3.13,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:2] \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 4.61,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 2\n $ selection: chr \"summer\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 5.09,
+    "action": "valueChange",
+    "id": "input$selection",
+    "value": " chr \"summer\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 5.73,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"freq\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 8.11,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ selection: chr \"summer\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 15"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 8.65,
+    "action": "valueChange",
+    "id": "input$freq",
+    "value": " int 15"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 9.25,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11.43,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"summer\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 15\n $ max      : int 100"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11.91,
+    "action": "valueChange",
+    "id": "input$max",
+    "value": " int 100"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 14.01,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr \"output_plot_width\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 15.02,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 1\n $ output_plot_width: int 610"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 15.52,
+    "action": "valueChange",
+    "id": "clientData$output_plot_width",
+    "value": " int 610"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16.14,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:2] \"output_plot_height\" \"output_plot_width\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17.64,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 2\n $ output_plot_height: int 400\n $ output_plot_width : int 610"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 18.2,
+    "action": "valueChange",
+    "id": "clientData$output_plot_height",
+    "value": " int 400"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 18.89,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:3] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 20.6,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 3\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ output_plot_width : int 610"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 21.07,
+    "action": "valueChange",
+    "id": "clientData$output_plot_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 21.77,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:4] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 24.11,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 4\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ pixelratio        : int 2\n $ output_plot_width : int 610"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 24.79,
+    "action": "valueChange",
+    "id": "clientData$pixelratio",
+    "value": " int 2"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 25.47,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:5] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 28,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 5\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ pixelratio        : int 2\n $ output_plot_width : int 610\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 28.41,
+    "action": "valueChange",
+    "id": "clientData$url_protocol",
+    "value": " chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 29.22,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:6] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 31.97,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 6\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 32.41,
+    "action": "valueChange",
+    "id": "clientData$url_hostname",
+    "value": " chr \"127.0.0.1\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 33.07,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:7] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 35.97,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 7\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 36.37,
+    "action": "valueChange",
+    "id": "clientData$url_port",
+    "value": " chr \"6128\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 37.02,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:8] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 41.23,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 8\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 41.7,
+    "action": "valueChange",
+    "id": "clientData$url_pathname",
+    "value": " chr \"/\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 42.4,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:9] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 46.09,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 9\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_search        : chr \"\"\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 46.52,
+    "action": "valueChange",
+    "id": "clientData$url_search",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 47.42,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:10] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 51.72,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 10\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ url_hash_initial  : chr \"\"\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_search        : chr \"\"\n $ url_protocol      : chr \"http:\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 52.18,
+    "action": "valueChange",
+    "id": "clientData$url_hash_initial",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 52.93,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:11] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 57.61,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 11\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ url_hash_initial  : chr \"\"\n $ pixelratio        : int 2\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_search        : chr \"\"\n $ url_protocol      : chr \"http:\"\n $ url_hash          : chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 58.06,
+    "action": "valueChange",
+    "id": "clientData$url_hash",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 58.81,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:12] \"output_plot_height\" \"output_plot_hidden\" \"output_plot_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 63.29,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 12\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ url_hash_initial  : chr \"\"\n $ pixelratio        : int 2\n $ singletons        : chr \"\"\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_search        : chr \"\"\n $ url_protocol      : chr \"http:\"\n $ url_hash          : chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 63.71,
+    "action": "valueChange",
+    "id": "clientData$singletons",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 64.84,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:13] \"allowDataUriScheme\" \"output_plot_height\" \"output_plot_hidden\" ..."
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 70.71,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 13\n $ allowDataUriScheme: logi TRUE\n $ url_pathname      : chr \"/\"\n $ output_plot_hidden: logi FALSE\n $ output_plot_height: int 400\n $ url_port          : chr \"6128\"\n $ url_hash_initial  : chr \"\"\n $ pixelratio        : int 2\n $ singletons        : chr \"\"\n $ url_hostname      : chr \"127.0.0.1\"\n $ output_plot_width : int 610\n $ url_search        : chr \"\"\n $ url_protocol      : chr \"http:\"\n $ url_hash          : chr \"\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 71.29,
+    "action": "valueChange",
+    "id": "clientData$allowDataUriScheme",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 73.78,
+    "action": "new",
+    "id": "output$plot",
+    "type": "observer"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 73.85,
+    "action": "invalidate",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 75.2,
+    "action": "new",
+    "id": "output$plot",
+    "type": "observer"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 75.28,
+    "action": "enter",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 76.41,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 76.54,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 76.87,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 76.97,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.23,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.31,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.43,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.53,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.59,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.63,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 77.8,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 85.4,
+    "action": "new",
+    "id": "terms",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 85.51,
+    "action": "enter",
+    "id": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 85.65,
+    "action": "dep",
+    "id": "terms",
+    "dependsOn": "input$update"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 85.82,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 85.88,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 101.02,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$selection"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1059.13,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1059.24,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1059.36,
+    "action": "exit",
+    "id": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1059.42,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1062.62,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$freq"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1063.37,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$max"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1608.26,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1608.36,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 1609.43,
+    "action": "exit",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 5650.6,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 5652.91,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"merchant\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 15\n $ max      : int 100"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 5653.32,
+    "action": "valueChange",
+    "id": "input$selection",
+    "value": " chr \"merchant\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11051.76,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11054.53,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"merchant\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 29\n $ max      : int 100"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11055.1,
+    "action": "valueChange",
+    "id": "input$freq",
+    "value": " int 29"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11055.24,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11055.33,
+    "action": "invalidate",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11058.03,
+    "action": "new",
+    "id": "output$plot",
+    "type": "observer"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11058.15,
+    "action": "enter",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11059.44,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11059.58,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11059.87,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11059.94,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.14,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.2,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.3,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.41,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.47,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.51,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11060.68,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11068.63,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11977.51,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$freq"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 11978.2,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$max"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 12217.89,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 12218.01,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 12219.25,
+    "action": "exit",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13186.77,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13189.51,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"merchant\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 29\n $ max      : int 134"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13190.06,
+    "action": "valueChange",
+    "id": "input$max",
+    "value": " int 134"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13190.2,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13190.29,
+    "action": "invalidate",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13192.75,
+    "action": "new",
+    "id": "output$plot",
+    "type": "observer"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13192.86,
+    "action": "enter",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.05,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.18,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.43,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.5,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.67,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.72,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.82,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.91,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13194.97,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13195.01,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13195.16,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13202.52,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13202.74,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$freq"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13203.42,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$max"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13429.83,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13429.93,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 13431.04,
+    "action": "exit",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 15343.82,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 15346.15,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"romeo\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 0\n $ freq     : int 29\n $ max      : int 134"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 15346.56,
+    "action": "valueChange",
+    "id": "input$selection",
+    "value": " chr \"romeo\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16225.27,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"freq\" \"max\" \"selection\" \"update\""
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16227.81,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ selection: chr \"romeo\"\n $ update   :Classes 'integer', 'shinyActionButtonValue'  int 1\n $ freq     : int 29\n $ max      : int 134"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16228.64,
+    "action": "valueChange",
+    "id": "input$update",
+    "value": "Classes 'integer', 'shinyActionButtonValue'  int 1"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16228.77,
+    "action": "invalidate",
+    "id": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16228.85,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16228.92,
+    "action": "invalidate",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16231.42,
+    "action": "new",
+    "id": "output$plot",
+    "type": "observer"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16231.51,
+    "action": "enter",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16232.51,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16232.63,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16232.85,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16232.92,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.07,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.13,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.22,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_width"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.32,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot_height"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.37,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.42,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16233.56,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16241.61,
+    "action": "new",
+    "id": "terms",
+    "type": "reactive"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16241.75,
+    "action": "enter",
+    "id": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16241.89,
+    "action": "dep",
+    "id": "terms",
+    "dependsOn": "input$update"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16242.09,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16242.15,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 16270.38,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$selection"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17133.85,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17133.93,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17134.04,
+    "action": "exit",
+    "id": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17134.11,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "terms"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17134.28,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$freq"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17135.08,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "input$max"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17401.65,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17401.76,
+    "action": "dep",
+    "id": "output$plot",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 17403.26,
+    "action": "exit",
+    "id": "output$plot"
+  },
+  {
+    "session": "ff6444871c13c216087dca890d897dd3",
+    "time": 19713.63,
+    "action": "invalidate",
+    "id": "output$plot"
+  }
+]

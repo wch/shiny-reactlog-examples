@@ -1,0 +1,1274 @@
+[
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 0,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr \"xcol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1.04,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 1\n $ xcol: chr \"Sepal.Length\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1.59,
+    "action": "valueChange",
+    "id": "input$xcol",
+    "value": " chr \"Sepal.Length\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2.3,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:2] \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 3.72,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 2\n $ ycol: chr \"Sepal.Width\"\n $ xcol: chr \"Sepal.Length\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4.24,
+    "action": "valueChange",
+    "id": "input$ycol",
+    "value": " chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5.01,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 7.1,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Sepal.Width\"\n $ clusters: int 3\n $ xcol    : chr \"Sepal.Length\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 7.83,
+    "action": "valueChange",
+    "id": "input$clusters",
+    "value": " int 3"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 8.9,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr \"output_plot1_width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 10.4,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 1\n $ output_plot1_width: int 610"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 11.06,
+    "action": "valueChange",
+    "id": "clientData$output_plot1_width",
+    "value": " int 610"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 11.84,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:2] \"output_plot1_height\" \"output_plot1_width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 13.47,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 2\n $ output_plot1_width : int 610\n $ output_plot1_height: int 400"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 14.17,
+    "action": "valueChange",
+    "id": "clientData$output_plot1_height",
+    "value": " int 400"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 14.93,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:3] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 17.09,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 3\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ output_plot1_height: int 400"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 17.88,
+    "action": "valueChange",
+    "id": "clientData$output_plot1_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 18.88,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:4] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 21.84,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 4\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ output_plot1_height: int 400\n $ pixelratio         : int 2"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 22.46,
+    "action": "valueChange",
+    "id": "clientData$pixelratio",
+    "value": " int 2"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 23.27,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:5] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 26.7,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 5\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ output_plot1_height: int 400\n $ pixelratio         : int 2\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 27.33,
+    "action": "valueChange",
+    "id": "clientData$url_protocol",
+    "value": " chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 28.22,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:6] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 31.91,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 6\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ output_plot1_height: int 400\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 32.51,
+    "action": "valueChange",
+    "id": "clientData$url_hostname",
+    "value": " chr \"127.0.0.1\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 33.38,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:7] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 37.56,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 7\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 38.16,
+    "action": "valueChange",
+    "id": "clientData$url_port",
+    "value": " chr \"6128\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 39.01,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:8] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 57.97,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 8\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 58.63,
+    "action": "valueChange",
+    "id": "clientData$url_pathname",
+    "value": " chr \"/\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 59.52,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:9] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 64.39,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 9\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_search         : chr \"\"\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 65.29,
+    "action": "valueChange",
+    "id": "clientData$url_search",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 66.6,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:10] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 72.31,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 10\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ url_hash_initial   : chr \"\"\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_search         : chr \"\"\n $ url_protocol       : chr \"http:\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 72.89,
+    "action": "valueChange",
+    "id": "clientData$url_hash_initial",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 74,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:11] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 79.65,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 11\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ url_hash_initial   : chr \"\"\n $ pixelratio         : int 2\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_search         : chr \"\"\n $ url_protocol       : chr \"http:\"\n $ url_hash           : chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 80.25,
+    "action": "valueChange",
+    "id": "clientData$url_hash",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 81.23,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:12] \"output_plot1_height\" \"output_plot1_hidden\" \"output_plot1_width\" \"pixelratio\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 87.38,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 12\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ url_hash_initial   : chr \"\"\n $ pixelratio         : int 2\n $ singletons         : chr \"\"\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_search         : chr \"\"\n $ url_protocol       : chr \"http:\"\n $ url_hash           : chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 87.9,
+    "action": "valueChange",
+    "id": "clientData$singletons",
+    "value": " chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 88.77,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:13] \"allowDataUriScheme\" \"output_plot1_height\" \"output_plot1_hidden\" ..."
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 95.35,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 13\n $ allowDataUriScheme : logi TRUE\n $ url_pathname       : chr \"/\"\n $ output_plot1_width : int 610\n $ output_plot1_hidden: logi FALSE\n $ url_port           : chr \"6128\"\n $ output_plot1_height: int 400\n $ url_hash_initial   : chr \"\"\n $ pixelratio         : int 2\n $ singletons         : chr \"\"\n $ url_hostname       : chr \"127.0.0.1\"\n $ url_search         : chr \"\"\n $ url_protocol       : chr \"http:\"\n $ url_hash           : chr \"\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 95.94,
+    "action": "valueChange",
+    "id": "clientData$allowDataUriScheme",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 99.72,
+    "action": "new",
+    "id": "output$plot1",
+    "type": "observer"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 99.82,
+    "action": "invalidate",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 101.34,
+    "action": "new",
+    "id": "output$plot1",
+    "type": "observer"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 101.43,
+    "action": "enter",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 102.64,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 102.82,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.17,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.26,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.47,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.54,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.66,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.77,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.85,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 103.9,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 104.08,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 111.55,
+    "action": "new",
+    "id": "selectedData",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 111.66,
+    "action": "enter",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 111.86,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$xcol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 111.97,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$ycol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 112.08,
+    "action": "exit",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 112.14,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 133.79,
+    "action": "new",
+    "id": "clusters",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 133.91,
+    "action": "enter",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 134.06,
+    "action": "dep",
+    "id": "clusters",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 134.74,
+    "action": "exit",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 134.8,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 155.05,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 177.05,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 177.15,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 178.38,
+    "action": "exit",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1281.79,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1283.77,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Sepal.Width\"\n $ clusters: int 3\n $ xcol    : chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1284.26,
+    "action": "valueChange",
+    "id": "input$xcol",
+    "value": " chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1284.4,
+    "action": "invalidate",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1284.49,
+    "action": "invalidate",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1284.57,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1284.64,
+    "action": "invalidate",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1287.63,
+    "action": "new",
+    "id": "output$plot1",
+    "type": "observer"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1287.73,
+    "action": "enter",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289.17,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289.51,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289.6,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289.81,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1289.97,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1290.12,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1290.26,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1290.34,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1290.41,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1290.75,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1298.86,
+    "action": "new",
+    "id": "selectedData",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1298.97,
+    "action": "enter",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1299.16,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$xcol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1299.29,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$ycol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1299.41,
+    "action": "exit",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1299.47,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1321.42,
+    "action": "new",
+    "id": "clusters",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1321.53,
+    "action": "enter",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1321.66,
+    "action": "dep",
+    "id": "clusters",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1322.26,
+    "action": "exit",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1322.32,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1339.76,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1357.79,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1357.88,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 1359.01,
+    "action": "exit",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2658.05,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2660.01,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Petal.Length\"\n $ clusters: int 3\n $ xcol    : chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2660.5,
+    "action": "valueChange",
+    "id": "input$ycol",
+    "value": " chr \"Petal.Length\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2660.63,
+    "action": "invalidate",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2660.72,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2660.78,
+    "action": "invalidate",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2663.43,
+    "action": "invalidate",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2664.18,
+    "action": "new",
+    "id": "output$plot1",
+    "type": "observer"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2664.29,
+    "action": "enter",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2665.68,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2665.83,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.14,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.23,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.43,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.5,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.62,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.74,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.81,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2666.86,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2667.05,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2674.64,
+    "action": "new",
+    "id": "selectedData",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2674.77,
+    "action": "enter",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2674.96,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$xcol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2675.09,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$ycol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2675.21,
+    "action": "exit",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2675.27,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2698.34,
+    "action": "new",
+    "id": "clusters",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2698.45,
+    "action": "enter",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2698.59,
+    "action": "dep",
+    "id": "clusters",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2699.18,
+    "action": "exit",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2699.25,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2718.01,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2740.03,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2740.14,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 2741.31,
+    "action": "exit",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4434.05,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4435.86,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Petal.Width\"\n $ clusters: int 3\n $ xcol    : chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4436.36,
+    "action": "valueChange",
+    "id": "input$ycol",
+    "value": " chr \"Petal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4436.49,
+    "action": "invalidate",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4436.58,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4436.65,
+    "action": "invalidate",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4439.05,
+    "action": "invalidate",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4439.75,
+    "action": "new",
+    "id": "output$plot1",
+    "type": "observer"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4439.86,
+    "action": "enter",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4441.53,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4441.72,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.04,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.13,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.36,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.44,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.56,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_width"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.71,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_plot1_height"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.79,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4442.85,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4443.06,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4450.78,
+    "action": "new",
+    "id": "selectedData",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4450.89,
+    "action": "enter",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4451.09,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$xcol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4451.21,
+    "action": "dep",
+    "id": "selectedData",
+    "dependsOn": "input$ycol"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4451.33,
+    "action": "exit",
+    "id": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4451.39,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4472.97,
+    "action": "new",
+    "id": "clusters",
+    "type": "reactive"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4473.09,
+    "action": "enter",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4473.23,
+    "action": "dep",
+    "id": "clusters",
+    "dependsOn": "selectedData"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4473.84,
+    "action": "exit",
+    "id": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4473.91,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4492.12,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clusters"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4513.02,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4513.15,
+    "action": "dep",
+    "id": "output$plot1",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 4514.71,
+    "action": "exit",
+    "id": "output$plot1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5389.24,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5391.36,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Petal.Width\"\n $ clusters: int 2\n $ xcol    : chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5392.18,
+    "action": "valueChange",
+    "id": "input$clusters",
+    "value": " int 2"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5924,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"clusters\" \"xcol\" \"ycol\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5926.32,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ ycol    : chr \"Petal.Width\"\n $ clusters: int 1\n $ xcol    : chr \"Sepal.Width\""
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 5926.96,
+    "action": "valueChange",
+    "id": "input$clusters",
+    "value": " int 1"
+  },
+  {
+    "session": "ff17e475c9898b87bbd0938419d7bad1",
+    "time": 7635.81,
+    "action": "invalidate",
+    "id": "output$plot1"
+  }
+]

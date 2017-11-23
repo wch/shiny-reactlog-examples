@@ -1,0 +1,2934 @@
+[
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 0,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr \"nav\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 0.81,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 1\n $ nav: chr \"Interactive map\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 1.22,
+    "action": "valueChange",
+    "id": "input$nav",
+    "value": " chr \"Interactive map\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 1.75,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:2] \"color\" \"nav\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 2.77,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 2\n $ nav  : chr \"Interactive map\"\n $ color: chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 3.16,
+    "action": "valueChange",
+    "id": "input$color",
+    "value": " chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 3.65,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:3] \"color\" \"nav\" \"size\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 4.95,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 3\n $ size : chr \"adultpop\"\n $ nav  : chr \"Interactive map\"\n $ color: chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5.31,
+    "action": "valueChange",
+    "id": "input$size",
+    "value": " chr \"adultpop\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5.78,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:4] \"color\" \"nav\" \"size\" \"states\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 7.11,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 4\n $ states: NULL\n $ size  : chr \"adultpop\"\n $ nav   : chr \"Interactive map\"\n $ color : chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 7.38,
+    "action": "valueChange",
+    "id": "input$states",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 7.86,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:5] \"cities\" \"color\" \"nav\" \"size\" \"states\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 9.36,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 5\n $ states: NULL\n $ size  : chr \"adultpop\"\n $ cities: NULL\n $ nav   : chr \"Interactive map\"\n $ color : chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 9.63,
+    "action": "valueChange",
+    "id": "input$cities",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 10.1,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:6] \"cities\" \"color\" \"nav\" \"size\" \"states\" \"zipcodes\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11.8,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 6\n $ states  : NULL\n $ size    : chr \"adultpop\"\n $ zipcodes: NULL\n $ cities  : NULL\n $ nav     : chr \"Interactive map\"\n $ color   : chr \"superzip\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12.07,
+    "action": "valueChange",
+    "id": "input$zipcodes",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12.61,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:7] \"cities\" \"color\" \"nav\" \"size\" \"states\" \"threshold\" \"zipcodes\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 15.54,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 7\n $ states   : NULL\n $ size     : chr \"adultpop\"\n $ zipcodes : NULL\n $ cities   : NULL\n $ nav      : chr \"Interactive map\"\n $ color    : chr \"superzip\"\n $ threshold: int 5"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 16.12,
+    "action": "valueChange",
+    "id": "input$threshold",
+    "value": " int 5"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 16.75,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:8] \"cities\" \"color\" \"minScore\" \"nav\" \"size\" \"states\" \"threshold\" \"zipcodes\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 19.87,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 8\n $ minScore : int 0\n $ states   : NULL\n $ size     : chr \"adultpop\"\n $ zipcodes : NULL\n $ cities   : NULL\n $ nav      : chr \"Interactive map\"\n $ color    : chr \"superzip\"\n $ threshold: int 5"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 20.35,
+    "action": "valueChange",
+    "id": "input$minScore",
+    "value": " int 0"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 21.07,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:9] \"cities\" \"color\" \"maxScore\" \"minScore\" \"nav\" \"size\" \"states\" \"threshold\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24.29,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 9\n $ maxScore : int 100\n $ minScore : int 0\n $ states   : NULL\n $ size     : chr \"adultpop\"\n $ zipcodes : NULL\n $ cities   : NULL\n $ nav      : chr \"Interactive map\"\n $ color    : chr \"superzip\"\n $ threshold: int 5"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24.73,
+    "action": "valueChange",
+    "id": "input$maxScore",
+    "value": " int 100"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 25.29,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr \"output_histCentile_width\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 25.97,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 1\n $ output_histCentile_width: int 288"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 26.36,
+    "action": "valueChange",
+    "id": "clientData$output_histCentile_width",
+    "value": " int 288"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 26.88,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:2] \"output_histCentile_height\" \"output_histCentile_width\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 27.9,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 2\n $ output_histCentile_width : int 288\n $ output_histCentile_height: int 200"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28.29,
+    "action": "valueChange",
+    "id": "clientData$output_histCentile_height",
+    "value": " int 200"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28.9,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:3] \"output_histCentile_height\" \"output_histCentile_width\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 30.53,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 3\n $ output_histCentile_width         : int 288\n $ output_scatterCollegeIncome_width: int 288\n $ output_histCentile_height        : int 200"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 30.94,
+    "action": "valueChange",
+    "id": "clientData$output_scatterCollegeIncome_width",
+    "value": " int 288"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 31.53,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:4] \"output_histCentile_height\" \"output_histCentile_width\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 33.25,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 4\n $ output_histCentile_width          : int 288\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 33.65,
+    "action": "valueChange",
+    "id": "clientData$output_scatterCollegeIncome_height",
+    "value": " int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 34.24,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:5] \"output_histCentile_height\" \"output_histCentile_width\" \"output_map_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 36.29,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 5\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 36.76,
+    "action": "valueChange",
+    "id": "clientData$output_map_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 37.67,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:6] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 40.57,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 6\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ output_histCentile_hidden         : logi FALSE\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 40.98,
+    "action": "valueChange",
+    "id": "clientData$output_histCentile_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 41.69,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:7] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 44.67,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 7\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 45.44,
+    "action": "valueChange",
+    "id": "clientData$output_scatterCollegeIncome_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 46.25,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:8] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 49.46,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 8\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 49.86,
+    "action": "valueChange",
+    "id": "clientData$output_ziptable_hidden",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 50.66,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:9] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 54.66,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 9\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ output_scatterCollegeIncome_height: int 250"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 55.11,
+    "action": "valueChange",
+    "id": "clientData$pixelratio",
+    "value": " int 2"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 55.89,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:10] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 59.79,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 10\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 60.15,
+    "action": "valueChange",
+    "id": "clientData$url_protocol",
+    "value": " chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 60.99,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:11] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 65.15,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 11\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 65.53,
+    "action": "valueChange",
+    "id": "clientData$url_hostname",
+    "value": " chr \"127.0.0.1\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 66.28,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:12] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 71.71,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 12\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 72.25,
+    "action": "valueChange",
+    "id": "clientData$url_port",
+    "value": " chr \"6128\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 73.3,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:13] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 79.08,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 13\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 79.53,
+    "action": "valueChange",
+    "id": "clientData$url_pathname",
+    "value": " chr \"/\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 80.61,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:14] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 86.89,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 14\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 87.3,
+    "action": "valueChange",
+    "id": "clientData$url_search",
+    "value": " chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 88.12,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:15] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 93.72,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 15\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 94.18,
+    "action": "valueChange",
+    "id": "clientData$url_hash_initial",
+    "value": " chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 95.18,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:16] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 101.12,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 16\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 101.63,
+    "action": "valueChange",
+    "id": "clientData$url_hash",
+    "value": " chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 102.79,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:17] \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 108.87,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 17\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 109.54,
+    "action": "valueChange",
+    "id": "clientData$singletons",
+    "value": " chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 110.65,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:18] \"allowDataUriScheme\" \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 117.28,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 18\n $ allowDataUriScheme                : logi TRUE\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi FALSE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 117.78,
+    "action": "valueChange",
+    "id": "clientData$allowDataUriScheme",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 120.56,
+    "action": "new",
+    "id": "output$map",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 120.62,
+    "action": "invalidate",
+    "id": "output$map"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 152.15,
+    "action": "new",
+    "id": "output$histCentile",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 152.3,
+    "action": "invalidate",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 154.2,
+    "action": "new",
+    "id": "output$scatterCollegeIncome",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 154.34,
+    "action": "invalidate",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 155.44,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 155.58,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 156.25,
+    "action": "new",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 156.32,
+    "action": "invalidate",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 157.27,
+    "action": "new",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 157.37,
+    "action": "invalidate",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 158.24,
+    "action": "new",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 158.36,
+    "action": "invalidate",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 159.04,
+    "action": "new",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 159.1,
+    "action": "invalidate",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 161.94,
+    "action": "new",
+    "id": "output$ziptable",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 162.01,
+    "action": "invalidate",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 162.37,
+    "action": "new",
+    "id": "output$map",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 162.43,
+    "action": "enter",
+    "id": "output$map"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 172.5,
+    "action": "exit",
+    "id": "output$map"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 172.91,
+    "action": "new",
+    "id": "output$histCentile",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 173.03,
+    "action": "enter",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.18,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "clientData$output_histCentile_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.31,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "clientData$output_histCentile_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.57,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.64,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.8,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.86,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 174.95,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_histCentile_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 175.04,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_histCentile_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 175.09,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 175.13,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 175.29,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 180.2,
+    "action": "new",
+    "id": "zipsInBounds",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 180.29,
+    "action": "enter",
+    "id": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 180.4,
+    "action": "dep",
+    "id": "zipsInBounds",
+    "dependsOn": "input$map_bounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 180.82,
+    "action": "exit",
+    "id": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 180.87,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 186.01,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 186.09,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 187.07,
+    "action": "exit",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 187.38,
+    "action": "new",
+    "id": "output$scatterCollegeIncome",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 187.45,
+    "action": "enter",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 188.73,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "clientData$output_scatterCollegeIncome_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 188.89,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "clientData$output_scatterCollegeIncome_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.16,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.23,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.39,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.45,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.54,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_scatterCollegeIncome_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.63,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_scatterCollegeIncome_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.69,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.73,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 189.89,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 194.93,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 202.3,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 202.43,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 203.97,
+    "action": "exit",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 204.36,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 204.56,
+    "action": "enter",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 204.76,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$color"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 204.91,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$size"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 205.06,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$threshold"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 330.12,
+    "action": "exit",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 330.44,
+    "action": "new",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 330.51,
+    "action": "enter",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 331.8,
+    "action": "dep",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})",
+    "dependsOn": "input$map_shape_click"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 331.88,
+    "action": "exit",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.13,
+    "action": "new",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.2,
+    "action": "enter",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.31,
+    "action": "dep",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.47,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.53,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.61,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.7,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.74,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 332.91,
+    "action": "exit",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.15,
+    "action": "new",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.22,
+    "action": "enter",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.32,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.48,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.53,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.61,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.7,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.74,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 333.91,
+    "action": "exit",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 334.18,
+    "action": "new",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 334.25,
+    "action": "enter",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 334.34,
+    "action": "dep",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})",
+    "dependsOn": "input$goto"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 334.4,
+    "action": "exit",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 429.97,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:10] \"cities\" \"color\" \"map_bounds\" \"maxScore\" \"minScore\" \"nav\" \"size\" \"states\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 437.01,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 10\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"adultpop\"\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 5\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 439.68,
+    "action": "valueChange",
+    "id": "input$map_bounds",
+    "value": "List of 4\n $ north: num 61.3\n $ east : num -51.7\n $ south: num 2.81\n $ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 440.15,
+    "action": "invalidate",
+    "id": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 440.41,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 440.59,
+    "action": "invalidate",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 444.59,
+    "action": "invalidate",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 444.78,
+    "action": "invalidate",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 447.67,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:11] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"maxScore\" \"minScore\" \"nav\" \"size\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 459.73,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 11\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"adultpop\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 5\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 461.09,
+    "action": "valueChange",
+    "id": "input$map_center",
+    "value": "List of 2\n $ lng: num -93.8\n $ lat: num 37.5"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 461.85,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 469.24,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"adultpop\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 5\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 469.8,
+    "action": "valueChange",
+    "id": "input$map_zoom",
+    "value": " int 4"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 470.39,
+    "action": "new",
+    "id": "output$histCentile",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 470.49,
+    "action": "enter",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 471.68,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "clientData$output_histCentile_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 471.8,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "clientData$output_histCentile_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.06,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.13,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.32,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.37,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.47,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_histCentile_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.57,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_histCentile_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.62,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.66,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 472.81,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 478.43,
+    "action": "new",
+    "id": "zipsInBounds",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 478.53,
+    "action": "enter",
+    "id": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 503.56,
+    "action": "dep",
+    "id": "zipsInBounds",
+    "dependsOn": "input$map_bounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 507.76,
+    "action": "exit",
+    "id": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 507.87,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 508.05,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 542.1,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 542.18,
+    "action": "dep",
+    "id": "output$histCentile",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 543.15,
+    "action": "exit",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 543.47,
+    "action": "new",
+    "id": "output$scatterCollegeIncome",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 543.54,
+    "action": "enter",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 544.46,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "clientData$output_scatterCollegeIncome_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 544.56,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "clientData$output_scatterCollegeIncome_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 544.77,
+    "action": "new",
+    "id": "plotObj",
+    "type": "reactive"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 544.83,
+    "action": "enter",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 544.98,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.03,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.17,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_scatterCollegeIncome_width"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.29,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "clientData$output_scatterCollegeIncome_height"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.34,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.39,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 545.53,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "clientData$pixelratio"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 550.88,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 551.81,
+    "action": "dep",
+    "id": "plotObj",
+    "dependsOn": "zipsInBounds"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 942.45,
+    "action": "exit",
+    "id": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 942.53,
+    "action": "dep",
+    "id": "output$scatterCollegeIncome",
+    "dependsOn": "plotObj"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 943.45,
+    "action": "exit",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5341.46,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5348.94,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"adultpop\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 6\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5350.04,
+    "action": "valueChange",
+    "id": "input$threshold",
+    "value": " int 6"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5350.35,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5352.01,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5352.12,
+    "action": "enter",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5372.71,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$color"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5372.84,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$size"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5372.97,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$threshold"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5521.71,
+    "action": "exit",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5582.46,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5589.41,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"adultpop\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 7\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5589.94,
+    "action": "valueChange",
+    "id": "input$threshold",
+    "value": " int 7"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5590.07,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5591.56,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5591.64,
+    "action": "enter",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5591.74,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$color"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5591.83,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$size"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5591.94,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$threshold"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 5663.51,
+    "action": "exit",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8672.09,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8679.43,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"centile\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"superzip\"\n $ threshold : int 7\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8679.93,
+    "action": "valueChange",
+    "id": "input$size",
+    "value": " chr \"centile\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8680.07,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8681.63,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8681.73,
+    "action": "enter",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8681.86,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$color"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8681.95,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$size"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 8682.07,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$threshold"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 9047.86,
+    "action": "exit",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11155.41,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11162.82,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"centile\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Interactive map\"\n $ color     : chr \"college\"\n $ threshold : int 7\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11163.31,
+    "action": "valueChange",
+    "id": "input$color",
+    "value": " chr \"college\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11163.44,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11164.95,
+    "action": "new",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11165.04,
+    "action": "enter",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11165.15,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$color"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11165.24,
+    "action": "dep",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})",
+    "dependsOn": "input$size"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 11254.82,
+    "action": "exit",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12735.69,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:12] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12743.3,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 12\n $ maxScore  : int 100\n $ minScore  : int 0\n $ states    : NULL\n $ size      : chr \"centile\"\n $ map_center:List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes  : NULL\n $ cities    : NULL\n $ nav       : chr \"Data explorer\"\n $ color     : chr \"college\"\n $ threshold : int 7\n $ map_zoom  : int 4\n $ map_bounds:List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12743.79,
+    "action": "valueChange",
+    "id": "input$nav",
+    "value": " chr \"Data explorer\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12744.88,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:18] \"allowDataUriScheme\" \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12752.46,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 18\n $ allowDataUriScheme                : logi TRUE\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi TRUE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi FALSE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12752.99,
+    "action": "valueChange",
+    "id": "clientData$output_map_hidden",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12754.01,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:18] \"allowDataUriScheme\" \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12761.28,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 18\n $ allowDataUriScheme                : logi TRUE\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi TRUE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi FALSE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi TRUE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12761.76,
+    "action": "valueChange",
+    "id": "clientData$output_histCentile_hidden",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12762.73,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:18] \"allowDataUriScheme\" \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12769.9,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 18\n $ allowDataUriScheme                : logi TRUE\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi TRUE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi TRUE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi TRUE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi TRUE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12770.39,
+    "action": "valueChange",
+    "id": "clientData$output_scatterCollegeIncome_hidden",
+    "value": " logi TRUE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12771.4,
+    "action": "valueChange",
+    "id": "names(clientData)",
+    "value": " chr [1:18] \"allowDataUriScheme\" \"output_histCentile_height\" \"output_histCentile_hidden\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12779.43,
+    "action": "valueChange",
+    "id": "clientData (all)",
+    "value": "List of 18\n $ allowDataUriScheme                : logi TRUE\n $ url_pathname                      : chr \"/\"\n $ output_map_hidden                 : logi TRUE\n $ output_histCentile_width          : int 288\n $ url_port                          : chr \"6128\"\n $ output_ziptable_hidden            : logi FALSE\n $ output_scatterCollegeIncome_width : int 288\n $ output_histCentile_height         : int 200\n $ url_hash_initial                  : chr \"\"\n $ pixelratio                        : int 2\n $ output_scatterCollegeIncome_hidden: logi TRUE\n $ singletons                        : chr \"8c3667a7ee537a9eaeec4bc349eac16cfc96d431\"\n $ output_histCentile_hidden         : logi TRUE\n $ url_hostname                      : chr \"127.0.0.1\"\n $ url_search                        : chr \"\"\n $ output_scatterCollegeIncome_height: int 250\n $ url_protocol                      : chr \"http:\"\n $ url_hash                          : chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12780.01,
+    "action": "valueChange",
+    "id": "clientData$output_ziptable_hidden",
+    "value": " logi FALSE"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12781.71,
+    "action": "new",
+    "id": "output$ziptable",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12781.81,
+    "action": "enter",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12790.05,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$minScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12790.49,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$maxScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12790.96,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12791.63,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 12792.28,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13184.43,
+    "action": "exit",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13239.24,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:13] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13247.03,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 13\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13247.46,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_selected",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13248.27,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:14] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13259.21,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 14\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13259.61,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13260.45,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:15] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13268.53,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 15\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13268.91,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13269.73,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:16] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13277.58,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 16\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13277.93,
+    "action": "valueChange",
+    "id": "input$ziptable_state",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13278.79,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:17] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13287.8,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 17\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13288.48,
+    "action": "valueChange",
+    "id": "input$ziptable_search",
+    "value": " chr \"\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13289.45,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13299.72,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13300.14,
+    "action": "valueChange",
+    "id": "input$ziptable_cell_clicked",
+    "value": " Named list()"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13448.2,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13477.05,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13477.62,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13478.47,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13487.15,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:31713] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : NULL\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 13487.66,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " int [1:31713] 1 2 3 4 5 6 7 8 9 10 ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18111.95,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18121.59,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:31713] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18122.07,
+    "action": "valueChange",
+    "id": "input$states",
+    "value": " chr \"MN\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18122.21,
+    "action": "invalidate",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18123.3,
+    "action": "invalidate",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18123.45,
+    "action": "invalidate",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18124.87,
+    "action": "new",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18124.94,
+    "action": "enter",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18125.05,
+    "action": "dep",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18130.61,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18130.69,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18130.78,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18130.87,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18130.91,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18152.57,
+    "action": "exit",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18153.28,
+    "action": "new",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18153.46,
+    "action": "enter",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18153.7,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18160.39,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18162.16,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18162.3,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18162.43,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18162.53,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18162.58,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18186.09,
+    "action": "exit",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18186.49,
+    "action": "new",
+    "id": "output$ziptable",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18186.63,
+    "action": "enter",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18206.19,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$minScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18206.59,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$maxScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18207.12,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18208.09,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18208.69,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18227.61,
+    "action": "exit",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18317.39,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18326.89,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:31713] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18327.32,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18328.24,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18336.74,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18337.11,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18462.17,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18471.46,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18472.03,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18472.89,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18483.2,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:866] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : NULL\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 18483.85,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " int [1:866] 1 2 3 4 5 6 7 8 9 10 ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22573.15,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22582.38,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:866] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr \"Minneapolis\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22582.87,
+    "action": "valueChange",
+    "id": "input$cities",
+    "value": " chr \"Minneapolis\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22583.03,
+    "action": "invalidate",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22584.37,
+    "action": "invalidate",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22586.26,
+    "action": "new",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22586.36,
+    "action": "enter",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22586.48,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22591.63,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22594.51,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22594.61,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22594.73,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22594.83,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22594.87,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22596.39,
+    "action": "exit",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22596.73,
+    "action": "new",
+    "id": "output$ziptable",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22596.81,
+    "action": "enter",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22603.88,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$minScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22604.47,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$maxScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22605.1,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22606.6,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22608.66,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22628.48,
+    "action": "exit",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22663.01,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22672.72,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:866] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr \"Minneapolis\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22673.15,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22674.06,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22684.37,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr \"Minneapolis\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22684.83,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22808.84,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22818.21,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr \"Minneapolis\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22818.81,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22819.7,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22828.68,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:49] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr \"Minneapolis\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 22829.21,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " int [1:49] 1 2 3 4 5 6 7 8 9 10 ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23896.42,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23906.17,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:49] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr [1:2] \"Minneapolis\" \"Saint Paul\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23906.67,
+    "action": "valueChange",
+    "id": "input$cities",
+    "value": " chr [1:2] \"Minneapolis\" \"Saint Paul\""
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23906.81,
+    "action": "invalidate",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23907.91,
+    "action": "invalidate",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23909.55,
+    "action": "new",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23909.64,
+    "action": "enter",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23909.76,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23914.36,
+    "action": "dep",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23916.84,
+    "action": "new",
+    "id": "[isolate]",
+    "type": "isolate"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23916.96,
+    "action": "enter",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23917.08,
+    "action": "dep",
+    "id": "[isolate]",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23917.19,
+    "action": "exit",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23917.23,
+    "action": "invalidate",
+    "id": "[isolate]"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23919.4,
+    "action": "exit",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23919.8,
+    "action": "new",
+    "id": "output$ziptable",
+    "type": "observer"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23919.88,
+    "action": "enter",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23926.56,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$minScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23926.87,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$maxScore"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23927.21,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$states"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23928.21,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$cities"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23929.76,
+    "action": "dep",
+    "id": "output$ziptable",
+    "dependsOn": "input$zipcodes"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23949.04,
+    "action": "exit",
+    "id": "output$ziptable"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23977.47,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23987.07,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:49] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr [1:2] \"Minneapolis\" \"Saint Paul\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23987.48,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23988.39,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23997.24,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr [1:2] \"Minneapolis\" \"Saint Paul\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 23997.64,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " NULL"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24076.68,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24086.14,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : NULL\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr [1:2] \"Minneapolis\" \"Saint Paul\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24086.72,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_current",
+    "value": " int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24087.57,
+    "action": "valueChange",
+    "id": "names(input)",
+    "value": " chr [1:18] \"cities\" \"color\" \"map_bounds\" \"map_center\" \"map_zoom\" \"maxScore\" \"minScore\" ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24096.32,
+    "action": "valueChange",
+    "id": "input (all)",
+    "value": "List of 18\n $ ziptable_search       : chr \"\"\n $ ziptable_rows_all     : int [1:77] 1 2 3 4 5 6 7 8 9 10 ...\n $ ziptable_rows_selected: NULL\n $ maxScore              : int 100\n $ ziptable_state        : NULL\n $ minScore              : int 0\n $ states                : chr \"MN\"\n $ size                  : chr \"centile\"\n $ map_center            :List of 2\n  ..$ lng: num -93.8\n  ..$ lat: num 37.5\n $ zipcodes              : NULL\n $ cities                : chr [1:2] \"Minneapolis\" \"Saint Paul\"\n $ nav                   : chr \"Data explorer\"\n $ color                 : chr \"college\"\n $ ziptable_cell_clicked : Named list()\n $ threshold             : int 7\n $ map_zoom              : int 4\n $ map_bounds            :List of 4\n  ..$ north: num 61.3\n  ..$ east : num -51.7\n  ..$ south: num 2.81\n  ..$ west : num -136\n $ ziptable_rows_current : int [1:10] 1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 24096.86,
+    "action": "valueChange",
+    "id": "input$ziptable_rows_all",
+    "value": " int [1:77] 1 2 3 4 5 6 7 8 9 10 ..."
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28330.29,
+    "action": "invalidate",
+    "id": "output$map"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28330.48,
+    "action": "invalidate",
+    "id": "output$histCentile"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28330.69,
+    "action": "invalidate",
+    "id": "output$scatterCollegeIncome"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28330.89,
+    "action": "invalidate",
+    "id": "observe({\n    colorBy <- input$color\n    sizeBy <- input$size\n    if (colorBy == \"superzip\") {\n        colorData <- ifelse(zipdata$centile >= (100 - input$threshold), \n            \"yes\", \"no\")\n        pal <- colorFactor(\"viridis\", colorData)\n    }\n    else {\n        colorData <- zipdata[[colorBy]]\n        pal <- colorBin(\"viridis\", colorData, 7, pretty = FALSE)\n    }\n    if (sizeBy == \"superzip\") {\n        radius <- ifelse(zipdata$centile >= (100 - input$threshold), \n            30000, 3000)\n    }\n    else {\n        radius <- zipdata[[sizeBy]]/max(zipdata[[sizeBy]]) * \n            30000\n    }\n    leafletProxy(\"map\", data = zipdata) %>% clearShapes() %>% \n        addCircles(~longitude, ~latitude, radius = radius, layerId = ~zipcode, \n            stroke = FALSE, fillOpacity = 0.4, fillColor = pal(colorData)) %>% \n        addLegend(\"bottomleft\", pal = pal, values = colorData, \n            title = colorBy, layerId = \"colorLegend\")\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28331.05,
+    "action": "invalidate",
+    "id": "observe({\n    leafletProxy(\"map\") %>% clearPopups()\n    event <- input$map_shape_click\n    if (is.null(event)) \n        return()\n    isolate({\n        showZipcodePopup(event$id, event$lat, event$lng)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28331.18,
+    "action": "invalidate",
+    "id": "observe({\n    cities <- if (is.null(input$states)) \n        character(0)\n    else {\n        filter(cleantable, State %in% input$states) %>% \"City\"$NULL %>% \n            unique() %>% sort()\n    }\n    stillSelected <- isolate(input$cities[input$cities %in% cities])\n    updateSelectInput(session, \"cities\", choices = cities, selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28331.3,
+    "action": "invalidate",
+    "id": "observe({\n    zipcodes <- if (is.null(input$states)) \n        character(0)\n    else {\n        cleantable %>% filter(State %in% input$states, is.null(input$cities) | \n            City %in% input$cities) %>% \"Zipcode\"$NULL %>% unique() %>% \n            sort()\n    }\n    stillSelected <- isolate(input$zipcodes[input$zipcodes %in% \n        zipcodes])\n    updateSelectInput(session, \"zipcodes\", choices = zipcodes, \n        selected = stillSelected)\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28331.45,
+    "action": "invalidate",
+    "id": "observe({\n    if (is.null(input$goto)) \n        return()\n    isolate({\n        map <- leafletProxy(\"map\")\n        map %>% clearPopups()\n        dist <- 0.5\n        zip <- input$goto$zip\n        lat <- input$goto$lat\n        lng <- input$goto$lng\n        showZipcodePopup(zip, lat, lng)\n        map %>% fitBounds(lng - dist, lat - dist, lng + dist, \n            lat + dist)\n    })\n})"
+  },
+  {
+    "session": "1388856d2b8e16931efcbd64bf71deeb",
+    "time": 28331.57,
+    "action": "invalidate",
+    "id": "output$ziptable"
+  }
+]
