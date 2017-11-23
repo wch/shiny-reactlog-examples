@@ -1,12 +1,8 @@
----
-title: "Shiny reactlog data"
-output: html_document
-editor_options: 
-  chunk_output_type: console
----
+Example data from Shiny reactlog
+================================
 
 
-## Existing reactlong interactive viewer
+## Existing reactlog interactive viewer
 
 To create and view the react log for a Shiny application, do the following:
 
